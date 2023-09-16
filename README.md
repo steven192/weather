@@ -7,3 +7,8 @@ The Technology Used
 * CSS
 * JAVASCRIPT
 * API
+
+  
+PROJECT DESCRIPTION
+
+The project description can be found in my google slide
